@@ -15,5 +15,6 @@ Lista de componentes:
 1 – Um cabo de conexão USB
 
 # Esquema circuito:
-  
-![image](https://github.com/CarlulsNex/arduinoLeds/assets/37805129/a4e36c48-13da-445c-9543-8c1df76f8725)
+
+ ![image](https://github.com/CarlulsNex/ArduinoLedsPlaca/assets/37805129/f370c4a7-c555-4262-b05c-29855735e0be)
+
